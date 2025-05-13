@@ -1,4 +1,10 @@
 # 13-05-2025
+# v0.0.0.6
+
+- fix installer issue
+- bug fixes with config files and video recorder
+
+# 13-05-2025
 # v0.0.0.5
 
 - bug fix, video recorder
