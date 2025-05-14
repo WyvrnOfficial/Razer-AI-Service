@@ -1,4 +1,9 @@
 # 14-05-2025
+# v0.0.0.8
+
+- bug fixes
+
+# 14-05-2025
 # v0.0.0.7
 
 - improve upload performance
