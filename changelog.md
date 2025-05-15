@@ -1,3 +1,10 @@
+# 15-05-2025
+# v0.0.0.9
+
+- improve websocket
+- add healthy check 
+- bug fix for video recorder 
+
 # 14-05-2025
 # v0.0.0.8
 
