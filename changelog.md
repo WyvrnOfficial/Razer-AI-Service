@@ -1,3 +1,9 @@
+# 16-05-2025
+# v0.0.0.10
+
+- improve websocket timeout code
+- bug fix for shiny moments 
+
 # 15-05-2025
 # v0.0.0.9
 
