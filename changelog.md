@@ -1,3 +1,14 @@
+# 30-05-2025
+# v0.0.0.11
+
+- Bug fix:
+    - video upload issue
+    - service.conf  update affects status health check
+    - video saving failure
+    - previous shiny moments can cause inconsistency with current report
+- Improvements:
+    - network reliability
+
 # 16-05-2025
 # v0.0.0.10
 
