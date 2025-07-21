@@ -1,3 +1,14 @@
+# 21-07-2025
+# v0.0.0.12
+
+New features:
+    - performance metrics
+    - manual report creation
+Bug fix:
+    - video upload issue
+Improvements:
+    - network reliability
+    
 # 30-05-2025
 # v0.0.0.11
 
