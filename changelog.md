@@ -1,3 +1,9 @@
+# 01-08-2025
+# v0.0.0.13
+
+Improvements:
+    - provide process game list 
+    
 # 21-07-2025
 # v0.0.0.12
 
