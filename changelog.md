@@ -2,12 +2,25 @@
 # v0.0.0.14
 
 New features:
+  - Unreal and Unity log analyzer (crash detection only)
+  - screenshot 
+  - auto update config file
+
+Improvements:
+  - service performance
+  - application performance
+  - installer
+  - better process list filtering
+
+# 27-08-2025
+# v0.0.0.14
+
+New features:
     - update WYVRN communcation protocol 
 Improvements:
     - service performance
 Bug fix:
     - video recorder server
-
     
 # 01-08-2025
 # v0.0.0.13
