@@ -1,5 +1,18 @@
-# 27-08-2025
-# v0.0.0.14
+# 15-10-2025
+# v25.10.0.0
+
+New features:
+  - Hotkeys: 
+    - Manual screenshot bug : Ctrl+B
+    - Manual video bug : Ctrl+Shift+B
+
+Improvements:
+  - application performance
+  - screenshots performance
+  - video and screenshot only on tracked window
+
+# 15-09-2025
+# v0.0.0.15
 
 New features:
   - Unreal and Unity log analyzer (crash detection only)
