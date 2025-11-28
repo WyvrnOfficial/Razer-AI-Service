@@ -1,3 +1,18 @@
+# 28-11-2025
+# v25.11.0.0
+
+New features:
+    - video duration
+Improvements:
+    - global performance
+    - screenshots performance
+    - video performance
+    - error detections from engine logs
+Bug fix:
+    - log security vulnerability
+    - hotkeys impact global shortcuts
+    - websockets hot change issue
+
 # 15-10-2025
 # v25.10.0.0
 
