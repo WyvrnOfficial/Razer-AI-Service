@@ -1,3 +1,9 @@
+# 11-12-2025
+# v25.11.1.0
+
+Bug fix:
+    - Fix performance metrics not working correctly upon starting manual report
+    
 # 28-11-2025
 # v25.11.0.0
 
